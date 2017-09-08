@@ -8,5 +8,10 @@ public class Hello {
     }
 
     public Hello() {
+        int times=0;
+
+
     }
+
+
 }
