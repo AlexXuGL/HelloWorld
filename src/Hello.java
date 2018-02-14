@@ -10,6 +10,8 @@ public class Hello {
     public Hello() {
         int times=0;
 		System.out.println("*************");
+		
+		int a=1;
 
     }
 
